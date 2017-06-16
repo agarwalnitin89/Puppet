@@ -1,0 +1,1 @@
+package{firefox : ensure => installed}
